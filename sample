@@ -1,0 +1,159 @@
+{
+"jobTitle": "Testing",
+"code": "",
+"numberOfPositions": "23",
+"jobTypeId": 1,
+"department": "IT",
+"externalPosting": "34",
+"internalPosting": "23",
+"entryDate": "2020-12-21T00:00:00.000Z",
+"expiryDate": "2020-12-25T00:00:00.000Z",
+"shiftTypeId": 8,
+"hoursPerWeek": "23",
+"genderTypeId": 9,
+"ageGroup": "25",
+"candiateCategoryTypeId": 13,
+"jobSummary": "Automation, Performance",
+"rolesResponsibilities": "Tech lead & Trainer",
+"functionalAreaTypeId": 19,
+"domainTypeId": 28,
+"jobPostingAdditionalData": [
+{
+"specialInterests": "Nothing Much",
+"preferredEmployers": null,
+"designation": null,
+"noticePeriod": "",
+"considerationPrevEmployees": null,
+"preferredCitizenship": null,
+"onshoreExperience": null,
+"currentEmployementType": null,
+"technicalSkills": "Automation, Performance, Manual",
+"knowledgeRequirements": null,
+"languageRequirements": null,
+"softskillRequirements": null,
+"currentWorkingLocation": "Hyderabad",
+"preferredWorkingLocation": "Bangalore",
+"jobLocationCountryTypeId": 66,
+"visaWorkStatus": "",
+"visaWorkPermitCountry": "",
+"visaValidity": "",
+"travelRequiementTypeId": 68,
+"averageTimeInCompany": "6",
+"socialMediaBehaviour": "Good",
+"requireLinkedInProfile": 1,
+"requireFacebookProfile": 0
+}
+],
+"jobPostingBenefits": [
+{
+"annualCtc": "600000",
+"currentCtc": "700000",
+"creditScore": "",
+"healthInsurance": 1,
+"dentalInsurance": 0,
+"accidentalInsurance": 0,
+"lifeInsurance": 1,
+"workDaysPerWeek": "34",
+"paidHolidays": "2",
+"extraPerksForOtTravel": 0,
+"transportation": 0,
+"mutualTransfer": 0,
+"healthAssistance": 1,
+"workLifeBalance": 0,
+"workFromHome": 1,
+"locationChangeIncentive": 0,
+"earlyJoiningBonus": 0,
+"stocks": 0,
+"referralBonus": 0
+}
+],
+"jobPostingCertifications": [
+{
+"certificationTypeId": 49
+},
+{
+"certificationTypeId": 50
+}
+],
+"jobPostingCompetencies": [
+{
+"competencyTypeId": 51
+},
+{
+"competencyTypeId": 52
+},
+{
+"competencyTypeId": 54
+}
+],
+"jobPostingEducationalQualifications": [
+{
+"educationQualificationTypeId": 33
+},
+{
+"educationQualificationTypeId": 34
+},
+{
+"educationQualificationTypeId": 36
+}
+],
+"jobPostingPreferredInstitutions": [
+{
+"institutionsTypeId": 44
+},
+{
+"institutionsTypeId": 45
+},
+{
+"institutionsTypeId": 46
+},
+{
+"institutionsTypeId": 48
+}
+],
+"jobPostingStreamQualification": [
+{
+"educationStreamTypeId": 43
+}
+],
+"educationQualificationTypeId": [
+33,
+34,
+36
+],
+"institutionsTypeId": [
+44,
+45,
+46,
+48
+],
+"educationStreamTypeId": [
+43
+],
+"certificationTypeId": [
+49,
+50
+],
+"specialInterests": "Nothing Much",
+"technicalSkills": "Automation, Performance, Manual",
+"competencyTypeId": [
+51,
+52,
+54
+],
+"currentWorkingLocation": "Hyderabad",
+"preferredWorkingLocation": "Bangalore",
+"jobLocationCountryTypeId": 66,
+"travelRequiementTypeId": 68,
+"annualCtc": "600000",
+"currentCtc": "700000",
+"healthInsurance": 1,
+"lifeInsurance": 1,
+"workDaysPerWeek": "34",
+"paidHolidays": "2",
+"healthAssistance": 1,
+"workFromHome": 1,
+"averageTimeInCompany": "6",
+"socialMediaBehaviour": "Good",
+"requireLinkedInProfile": 1
+}
